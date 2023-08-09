@@ -1,3 +1,4 @@
+pragma solidity ^0.7.0;
 contract _MAIN_ {
     constructor () public {
         uint8 a = 255;
