@@ -1,4 +1,5 @@
-contract _MAIN_ {
+pragma solidity ^0.7.0;
+contract QUINT {
     constructor () public {
         uint8 a = 255;
         uint8 b = 255;
