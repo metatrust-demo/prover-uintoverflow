@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.6;
 
-contract Bank {
+contract _MAIN_ {
 
   mapping(address => uint256) private _funds;
 	uint256 private _totalFunds;
